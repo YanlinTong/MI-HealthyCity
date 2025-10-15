@@ -1,7 +1,56 @@
-# MI Healthy City
+# 🏙️ MI Healthy City
 
-This repository contains visualization and analysis results for the **MI Healthy City** project.  
-All interactive HTML reports are located in the [`html/`](./html) folder and can be viewed directly via GitHub Pages.
+The **Michigan Healthy City Tool (MI-HealthyCity)** is an interactive data resource designed to consolidate urban health data, identify priorities, and inform strategies for advancing **health equity** and addressing the **social determinants of health (SDOH)** across Michigan.  
+
+Adapted from global frameworks such as the **World Health Organization’s (WHO) Urban Health Equity Assessment and Response Tool (Urban HEART)**—which has guided urban health planning in over 100 cities worldwide—the MI-HealthyCity Tool provides a localized, data-driven approach to assessing urban health disparities within Michigan communities.
+
+---
+
+## 🌍 Purpose and Policy Context
+
+The MI-HealthyCity Tool emerges at a pivotal time when cities across the United States are prioritizing **health equity** and **social justice**.  
+The tool offers evidence-based insights across **five key policy areas**:
+
+- 🏦 **Economic Opportunities**  
+- 🎓 **Social and Human Development**  
+- 🧭 **Governance and Civic Engagement**  
+- 🏗️ **Physical Environment and Infrastructure**  
+- ❤️ **Population Health**
+
+By integrating these dimensions, MI-HealthyCity supports community organizations, researchers, and policymakers in **identifying emerging local needs** and **targeting interventions** to reduce health inequities.
+
+---
+
+## 🗺️ Level of Analysis
+
+MI-HealthyCity includes data at the **census-tract level** for the **24 largest cities in Michigan** (population ≥ 60,000 according to the 2020 Census).  
+This level of granularity enables detailed neighborhood-level assessments, helping to uncover disparities that may not appear in city- or county-level statistics.
+
+> **Goal:** Enable comparisons of neighborhood health outcomes and social determinants across urban settings statewide.
+
+---
+
+## 🧩 City Selection
+
+To ensure a comprehensive statewide view, all Michigan municipalities with a population greater than **60,000 (2020 Census)** were included—resulting in **24 major cities** analyzed in the tool.
+
+---
+
+## 👥 Demographics and Indicator Selection
+
+Demographic characteristics such as **age**, **gender**, and **race/ethnicity** were incorporated to better understand census-tract composition and its relationship to health outcomes.  
+
+A total of **43 indicators** were identified and categorized into **six domains**, capturing health outcomes, health behaviors, and social determinants of health.  
+Indicators were selected based on two key criteria:
+1. Either directly represent a health outcome, **or** are supported by research linking them to a health outcome.
+2. Data availability at the **census-tract level**.
+
+---
+
+## 📊 Spatial Visualization of Indicators
+
+Below are the interactive spatial visualizations for heath indicators across 6 domains.  
+Each HTML report presents tract-level patterns of health indicators across Michigan cities.
 
 ---
 
