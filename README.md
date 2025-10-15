@@ -10,21 +10,21 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
 | Arthritis | Arthritis among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Arthrisis.html) |
+| Asthma | Current asthma prevalence among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Respiratory_Disease_Asthma.html) |
+| Blood Pressure | High blood pressure among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Blood_Pressure.html) |
 | Cancer | Cancer among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| CVD: Coronary Heart Disease | Coronary heart disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Coronary_Heart_Disease.html) |
-| CVD: Stroke | Stroke among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Stroke.html) |
+| Cholesterol | High cholesterol among adults aged ≥18 years who have been screened in past 5 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Cholesterol.html) |
+| COPD | Chronic obstructive pulmonary disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Respiratory_Disease_COPD.html) |
+| Coronary Heart Disease | Coronary heart disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Coronary_Heart_Disease.html) |
 | Depression | Depression among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Depression.html) |
 | Diabetes | Diagnosed diabetes among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Diabetes.html) |
-| Heart Health: Blood Pressure | High blood pressure among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Blood_Pressure.html) |
-| Heart Health: Cholesterol | High cholesterol among adults aged ≥18 years who have been screened in past 5 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Cholesterol.html) |
 | Kidney Disease | Chronic kidney disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Kidney_Disease.html) |
 | Life Expectancy at Birth | Life expectancy at birth (Years) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Life_Expectancy_At_Birth.html) |
 | Obesity | Obesity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Obesity.html) |
-| Respiratory Disease: Asthma | Current asthma prevalence among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Respiratory_Disease_Asthma.html) |
-| Respiratory Disease: COPD | Chronic obstructive pulmonary disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Respiratory_Disease_COPD.html) |
 | Self-Rated Mental Health | Mental health not good for ≥14 days among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Mental_Health.html) |
 | Self-Rated Overall Health | Fair or poor self-rated health status among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Overall_Health.html) |
 | Self-Rated Physical Health | Physical health not good for ≥14 days among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Physical_Health.html) |
+| Stroke | Stroke among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Stroke.html) |
 
 ---
 
@@ -69,9 +69,9 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
-| Air Quality: Ozone | Mean estimated 8-hour average ozone concentration (ppb) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Air_Quality_Ozone.html) |
-| Air Quality: PM2.5 | Mean estimated 24-hour average PM2.5 concentration (μg/m³) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Air_Quality_PM2.5.html) |
 | Green Space | Proportion of land area that is a park (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Green_Space.html) |
+| Ozone | Mean estimated 8-hour average ozone concentration (ppb) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Air_Quality_Ozone.html) |
+| PM2.5 | Mean estimated 24-hour average PM2.5 concentration (μg/m³) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Air_Quality_PM2.5.html) |
 | Transportation Cost | Transportation cost as % of income for a family at 80% of median income (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Transportation_Cost.html) |
 | Vacant Housing | Percent of total housing that is vacant (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Vacant_Housing.html) |
 
