@@ -61,7 +61,7 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 | Loans Originated | Loans originated ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Loans_Originated.html) |
 | Solid Fuel Use | Households using coal, coke, or wood among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Solid_Fuel_Use.html) |
 | Subsidized Housing | Subsidized housing units available (#) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Subsidized_Housing.html) |
-| Lack Affordable Housing (Owners/Renters Combined) | Share of households spending >30% of income on housing (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Affordable_Housing_Owners.html) |
+| Lack Affordable Housing | Share of households spending >30% of income on housing (Owners/Renters Combined) (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Affordable_Housing_Owners.html) |
 
 ---
 
