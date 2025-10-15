@@ -15,8 +15,8 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 | CVD: Stroke | Stroke among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Stroke.html) |
 | Depression | Depression among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Depression.html) |
 | Diabetes | Diagnosed diabetes among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Diabetes.html) |
-| Heart Health Risk: Blood Pressure | High blood pressure among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Blood_Pressure.html) |
-| Heart Health Risk: Cholesterol | High cholesterol among adults aged ≥18 years who have been screened in the past 5 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Cholesterol.html) |
+| Heart Health: Blood Pressure | High blood pressure among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Blood_Pressure.html) |
+| Heart Health: Cholesterol | High cholesterol among adults aged ≥18 years who have been screened in past 5 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Heart_Health_Risk_Cholesterol.html) |
 | Kidney Disease | Chronic kidney disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Kidney_Disease.html) |
 | Life Expectancy at Birth | Life expectancy at birth (Years) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Life_Expectancy_At_Birth.html) |
 | Obesity | Obesity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Obesity.html) |
