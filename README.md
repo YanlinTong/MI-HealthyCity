@@ -11,22 +11,19 @@ Adapted from global frameworks such as the World Health Organization’s (WHO) U
 MI-HealthyCity includes data at the **census-tract level** for the **24 largest cities in Michigan** (population ≥ 60,000 according to the 2020 Census).  
 This level of granularity enables detailed neighborhood-level assessments, helping to uncover disparities that may not appear in city- or county-level statistics.
 
----
 
 ## 👥 Demographics and Indicator Selection
 
 Demographic characteristics such as **age**, **gender**, and **race/ethnicity** were incorporated to better understand census-tract composition and its relationship to health outcomes.  
 A total of **43 indicators** were identified and categorized into **six domains**, capturing health outcomes, health behaviors, and social determinants of health.  
 
----
 
 ## 📊 Spatial Visualization of Indicators
 
 Below are the interactive spatial visualizations for heath indicators across 6 domains.  
 
----
 
-# 🩺 Domain #1: Health Outcomes and Status 
+### 🩺 Domain #1: Health Outcomes and Status 
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
@@ -47,7 +44,6 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 | Physical Health | Self-Rated physical health not good for ≥14 days among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Physical_Health.html) |
 | Stroke | Stroke among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Stroke.html) |
 
----
 
 ## 🏃‍♀️ Domain #2: Health Behaviors  
 
