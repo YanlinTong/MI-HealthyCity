@@ -1,4 +1,4 @@
-# 🏙️ MI Healthy City
+# MI Healthy City
 
 The **Michigan Healthy City Tool (MI-HealthyCity)** is an interactive data resource designed to consolidate urban health data, identify priorities, and inform strategies for advancing **health equity** and addressing the **social determinants of health (SDOH)** across Michigan.  
 
@@ -21,8 +21,6 @@ A total of **43 indicators** were identified and categorized into **six domains*
 ## 📊 Spatial Visualization of Indicators
 
 Below are the interactive spatial visualizations for heath indicators across 6 domains.  
-
-
 ### 🩺 Domain #1: Health Outcomes and Status 
 
 | Indicator | Meaning | Preview |
@@ -45,7 +43,7 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 | Stroke | Stroke among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Stroke.html) |
 
 
-## 🏃‍♀️ Domain #2: Health Behaviors  
+### 🏃‍♀️ Domain #2: Health Behaviors  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
@@ -54,18 +52,16 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 | Inadequate Sleep | Sleeping less than 7 hours among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/2_Inadequate_Sleep.html) |
 | Lack Physical Activity | No leisure-time physical activity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/2_Lack_Physical_Activity.html) |
 
----
 
-## 🏥 Domain #3: Health Care  
+### 🏥 Domain #3: Health Care  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
 | Doctor Visits | Visits to doctor for routine checkup within the past year among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/3_Doctor_Visits.html) |
 | No Health Insurance | No health insurance coverage among total population (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/3_No_Health_Insurance_Coverage.html) |
 
----
 
-## 🏠 Domain #4: Housing and Infrastructure  
+### 🏠 Domain #4: Housing and Infrastructure  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
@@ -80,9 +76,8 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 | Subsidized Housing | Subsidized housing units available (#) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Subsidized_Housing.html) |
 | Lack Affordable Housing | Share of households spending >30% of income on housing (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Affordable_Housing_Owners.html) |
 
----
 
-## 🌳 Domain #5: Neighborhood and Environmental Exposures  
+### 🌳 Domain #5: Neighborhood and Environmental Exposures  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
@@ -92,9 +87,8 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 | Transportation Cost | Transportation cost as % of income for a family at 80% of median income (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Transportation_Cost.html) |
 | Vacant Housing | Percent of total housing that is vacant (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Vacant_Housing.html) |
 
----
 
-## 💼 Domain #6: Income, Employment, and Education  
+### 💼 Domain #6: Income, Employment, and Education  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
