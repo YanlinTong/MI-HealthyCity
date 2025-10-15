@@ -5,7 +5,7 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 
 ---
 
-## Domain #1: Health Outcomes and Status 
+## 🩺 Domain #1: Health Outcomes and Status 
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
@@ -28,65 +28,65 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 
 ---
 
-## Domain #2: Health Behaviors 
+## 🏃‍♀️ Domain #2: Health Behaviors  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
-| Binge Drinking | Binge drinking among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Arthrisis.html) |
-| Current Smoking | Current smoking among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Coronary_Heart_Disease.html) |
-| Inadequate Sleep | Sleeping less than 7 hours among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Lack Physical Activity | No leisure-time physical activity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
+| Binge Drinking | Binge drinking among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/2_Binge_Drinking.html) |
+| Current Smoking | Current smoking among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/2_Current_Smoking.html) |
+| Inadequate Sleep | Sleeping less than 7 hours among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/2_Inadequate_Sleep.html) |
+| Lack Physical Activity | No leisure-time physical activity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/2_Lack_Physical_Activity.html) |
 
 ---
 
-## Domain #3: Health Care 
+## 🏥 Domain #3: Health Care  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
-| Doctor Visits | Visits to doctor for routine checkup within the past year among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Arthrisis.html) |
-| No Health Insurance Coverage | No health insurance among total population (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Coronary_Heart_Disease.html) |
+| Doctor Visits | Visits to doctor for routine checkup within the past year among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/3_Doctor_Visits.html) |
+| No Health Insurance Coverage | No health insurance among total population (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/3_No_Health_Insurance_Coverage.html) |
 
 ---
 
-## Domain #4: Housing and Infrastructure 
+## 🏠 Domain #4: Housing and Infrastructure  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
-| Affordable Housing: Owners | Housing costs as percentage of household income is more than 30% among owner occupied households (with and without a mortgage) (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Affordable Housing: Renters | Gross rent as percentage of household income is more than 30% of income on housing among renter occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Crowded Housing | More than 1 person per room among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Homeownership | Owner occupied households among all occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Housing Value | Median housing value derived by homeowner’s estimates of their home value, including house and lot, mobile home, and lot or condominium unit ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Lack Water, Sewage, and Plumbing | Lack complete plumbing facilities among total occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Loans Originated | Loans originated ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Solid Fuel Use | Households that use coal, coke, or wood among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Subsidized Housing | Subsidized units available (#) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-
+| Affordable Housing: Owners | Housing costs >30% of income among owner-occupied households (with and without mortgage) (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Affordable_Housing_Owners.html) |
+| Affordable Housing: Renters | Gross rent >30% of household income among renter-occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Affordable_Housing_Renters.html) |
+| Crowded Housing | More than 1 person per room among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Crowded_Housing.html) |
+| Homeownership | Owner-occupied households among all occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Homeownership.html) |
+| Housing Value | Median housing value (homeowner’s estimate, including house and lot) ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Housing_Value.html) |
+| Lack Water, Sewage, and Plumbing | Lack complete plumbing facilities among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Lack_Water_Sewage_And_Plumbing.html) |
+| Loans Originated | Loans originated ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Loans_Originated.html) |
+| Solid Fuel Use | Households using coal, coke, or wood among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Solid_Fuel_Use.html) |
+| Subsidized Housing | Subsidized housing units available (#) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Subsidized_Housing.html) |
+| Lack Affordable Housing (Owners/Renters Combined) | Share of households spending >30% of income on housing (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Affordable_Housing_Owners.html) |
 
 ---
 
-## Domain #5: Neighborhood and Environmental Exposures 
+## 🌳 Domain #5: Neighborhood and Environmental Exposures  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
-| Air Quality: Ozone | Mean estimated 8-hour average ozone concentration in parts per billion (ppb) within 3 meters of the surface of the earth (Average of daily measures over one year) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Air Quality: PM2.5 | Mean estimated 24-hour average PM2.5 concentration in μg/m3 (Average of daily measures over one year) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Green Space | Proportion of land area that is a park (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Transportation cost | Transportation cost as a percentage of income for a family at 80% of household median income (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Vacant Housing | Percent of total housing that is vacant (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
+| Air Quality: Ozone | Mean estimated 8-hour average ozone concentration (ppb) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Air_Quality_Ozone.html) |
+| Air Quality: PM2.5 | Mean estimated 24-hour average PM2.5 concentration (μg/m³) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Air_Quality_PM2.5.html) |
+| Green Space | Proportion of land area that is a park (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Green_Space.html) |
+| Transportation Cost | Transportation cost as % of income for a family at 80% of median income (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Transportation_Cost.html) |
+| Vacant Housing | Percent of total housing that is vacant (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/5_Vacant_Housing.html) |
 
 ---
 
-## Domain #6: Income, Employment, and Education 
+## 💼 Domain #6: Income, Employment, and Education  
 
 | Indicator | Meaning | Preview |
 |:------|:-----------|:----------------|
-| Bachelor’s Degree | Obtained bachelor’s degree among population 25 and older (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Arthrisis.html) |
-| Child Poverty | Living in poverty among population under 18 years of age for whom poverty status is determined (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Coronary_Heart_Disease.html) |
-| Female Unemployment | Unemployed Civilian among the female population 16 and older who are in the labor force (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Graduated High School | High school graduate among population 25 and older (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-| Income | Median household income in the past 12 months ($) (In 2019 Inflation Adjusted Dollars) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Cancer.html) |
-
+| Bachelor’s Degree | Bachelor’s degree or higher among population aged ≥25 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Bachelors_Degree.html) |
+| Child Poverty | Living in poverty among population under 18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Child_Poverty.html) |
+| Female Unemployment | Unemployed civilian females aged ≥16 years in labor force (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Female_Unemployment.html) |
+| Graduated High School | High school graduate among population aged ≥25 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Graduated_High_School.html) |
+| Income | Median household income (Inflation-adjusted $2019) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Income.html) |
+| Unemployment | Unemployed civilians aged ≥16 years in labor force (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Unemployment.html) |
 
 
 
