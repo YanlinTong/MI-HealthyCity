@@ -100,7 +100,10 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 | Unemployment | Unemployed civilians aged ≥16 years in labor force (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/6_Unemployment.html) |
 
 
+---
 
+For more details about the MI-HealthyCity project, visit  
+🔗 [https://sph.umich.edu/ideas/mi-healthycity-tool.html](https://sph.umich.edu/ideas/mi-healthycity-tool.html)
 
 
 
