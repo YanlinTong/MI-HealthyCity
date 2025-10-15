@@ -20,8 +20,8 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 | Diabetes | Diagnosed diabetes among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Diabetes.html) |
 | Kidney Disease | Chronic kidney disease among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Kidney_Disease.html) |
 | Life Expectancy at Birth | Life expectancy at birth (Years) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Life_Expectancy_At_Birth.html) |
-| Obesity | Obesity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Obesity.html) |
 | Mental Health | Self-Rated mental health not good for ≥14 days among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Mental_Health.html) |
+| Obesity | Obesity among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Obesity.html) |
 | Overall Health | Fair or poor self-rated health status among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Overall_Health.html) |
 | Physical Health | Self-Rated physical health not good for ≥14 days among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_Self_Rated_Physical_Health.html) |
 | Stroke | Stroke among adults aged ≥18 years (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Stroke.html) |
