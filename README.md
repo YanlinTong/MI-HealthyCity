@@ -12,7 +12,7 @@ MI-HealthyCity includes data at the **census-tract level** for the **24 largest 
 This level of granularity enables detailed neighborhood-level assessments, helping to uncover disparities that may not appear in city- or county-level statistics.
 
 
-## 👥 Demographics and Indicator Selection
+## 👥 Demographics and Indicator
 
 Demographic characteristics such as **age**, **gender**, and **race/ethnicity** were incorporated to better understand census-tract composition and its relationship to health outcomes.  
 A total of **43 indicators** were identified and categorized into **six domains**, capturing health outcomes, health behaviors, and social determinants of health.  
