@@ -57,7 +57,7 @@ All interactive HTML reports are located in the [`html/`](./html) folder and can
 | Crowded Housing | More than 1 person per room among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Crowded_Housing.html) |
 | Homeownership | Owner-occupied households among all occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Homeownership.html) |
 | Housing Value | Median housing value (homeowner’s estimate, including house and lot) ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Housing_Value.html) |
-| Lack Water,Sewage,Plumbing | Lack complete plumbing facilities among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Lack_Water_Sewage_And_Plumbing.html) |
+| Lack Water, Sewage, Plumbing | Lack complete plumbing facilities among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Lack_Water_Sewage_And_Plumbing.html) |
 | Loans Originated | Loans originated ($) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Loans_Originated.html) |
 | Solid Fuel Use | Households using coal, coke, or wood among occupied households (%) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Solid_Fuel_Use.html) |
 | Subsidized Housing | Subsidized housing units available (#) | [View Online](https://yanlintong.github.io/MI-HealthyCity/html/4_Subsidized_Housing.html) |
