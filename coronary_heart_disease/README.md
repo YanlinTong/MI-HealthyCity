@@ -2,7 +2,7 @@
 
 This folder documents our analysis of **coronary heart disease (CHD) prevalence** across Michigan cities using indicators from the MI-HealthyCity project. We here summarize the indicators, demographic measures, visualization, and the **piecewise spatial linear model** that quantifies associations between CHD prevalence and social/environmental determinants while adjusting for demographics.
 
-> MI-HealthyCity overview: https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md , https://sph.umich.edu/ideas/mi-healthycity-tool.html
+> For an overview of the MI-HealthyCity project, see the [GitHub README](https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md) and the [UM SPH project webpage](https://sph.umich.edu/ideas/mi-healthycity-tool.html).
 
 ---
 
@@ -31,10 +31,10 @@ This folder documents our analysis of **coronary heart disease (CHD) prevalence*
 ## Methods
 
 1. **Spatial visualization**
-   - We mapped the geographic distribution of selected indicators via interactive heatmaps to contextualize spatial patterns across MI census tracts. Darker shades indicate higher values.
+   - We mapped the geographic distribution of selected indicators via <a href="https://yanlintong.github.io/MI-Healthy-City/html/1_CVD_Coronary_Heart_Disease.html" target="_blank">interactive heatmaps</a> to contextualize spatial patterns across MI census tracts.
 
 2. **City-level summaries**
-   - For CHD prevalence, we use **boxplots** to display the distribution across **24 MI cities** (median, IQR, whiskers, and outliers defined as >1.5×IQR beyond Q3 or below Q1).
+   - For CHD prevalence, we use **boxplots** to display the distribution across 24 MI cities.
 
 3. **Piecewise spatial linear regression**
    - We built a **piecewise spatial linear regression** that accounts for cross-city spatial dependence.
@@ -49,9 +49,9 @@ Each box shows the **IQR** for city-specific CHD prevalence across tracts; the *
 
 ![Boxplot of CHD prevalence by city](images/boxplot_coronary_heart_disease.png)
 
-  - The **highest median** CHD prevalence: **Flint**, followed by **Detroit** and **Dearborn**.  
-  - The **lowest median**: **Ann Arbor**, followed by **Novi** and **Canton Charter Township**.  
-  - **Largest IQRs:** **Detroit** and **Kalamazoo** (≈2.5%).  
+  - **Highest median**: **Flint**, followed by Detroit and Dearborn.  
+  - **Lowest median**: **Ann Arbor**, followed by Novi and Canton Charter Township.  
+  - **Largest IQRs:** **Detroit** (≈9.6%), indicating substantial variability within the city.
   - **Smallest IQR:** **Livonia** (≈1.1%), indicating tighter clustering around the median.
 
 ### Piecewise Spatial linear model results
