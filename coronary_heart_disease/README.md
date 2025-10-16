@@ -31,7 +31,7 @@ This folder documents our analysis of **coronary heart disease (CHD) prevalence*
 ## Methods
 
 1. **Spatial visualization**
-   - We mapped the geographic distribution of selected indicators via <a href="https://yanlintong.github.io/MI-Healthy-City/html/1_CVD_Coronary_Heart_Disease.html" target="_blank">interactive heatmaps</a> to contextualize spatial patterns across MI census tracts.
+   - We mapped the geographic distribution of selected indicators via <a href="https://yanlintong.github.io/MI-HealthyCity/html/1_CVD_Coronary_Heart_Disease.html" target="_blank">interactive heatmaps</a> to contextualize spatial patterns across MI census tracts.
 
 2. **City-level summaries**
    - For CHD prevalence, we use **boxplots** to display the distribution across 24 MI cities.
