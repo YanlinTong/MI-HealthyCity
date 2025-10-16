@@ -2,7 +2,7 @@
 
 This folder documents our analysis of **coronary heart disease (CHD) prevalence** across Michigan cities using indicators from the MI-HealthyCity project. We here summarize the indicators, demographic measures, visualization, and the **piecewise spatial linear model** that quantifies associations between CHD prevalence and social/environmental determinants while adjusting for demographics.
 
-> For an overview of the MI-HealthyCity project, see the [GitHub README](https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md) and the [UM SPH project webpage](https://sph.umich.edu/ideas/mi-healthycity-tool.html).
+> For an overview of the MI-HealthyCity project, see [here](https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md) and [here](https://sph.umich.edu/ideas/mi-healthycity-tool.html).
 
 ---
 
