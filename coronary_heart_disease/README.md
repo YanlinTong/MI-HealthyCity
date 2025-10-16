@@ -8,7 +8,7 @@ This folder documents our analysis of **coronary heart disease (CHD) prevalence*
 
 ## Indicators & Demographics
 
-- **Indicators:** 9 indicators spanning 6 domains, including:
+- **Indicators:** 8 indicators spanning 6 domains, including:
   - Uninsured rate (%)
   - Homeownership rate (%)
   - Green space proportion (%)
