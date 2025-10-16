@@ -1,4 +1,4 @@
-# Coronary Heart Disease (CHD) – Census-Tract-Level Analysis
+# Coronary Heart Disease (CHD) Prevalence Analysis and Modeling
 
 This folder documents our analysis of **coronary heart disease (CHD) prevalence** across Michigan cities using indicators from the MI-HealthyCity project. We here summarize the indicators, demographic measures, visualization, and the **piecewise spatial linear model** that quantifies associations between CHD prevalence and social/environmental determinants while adjusting for demographics.
 
@@ -6,7 +6,7 @@ This folder documents our analysis of **coronary heart disease (CHD) prevalence*
 
 ---
 
-## Data: Indicators & Demographics
+## Indicators & Demographics
 
 - **Indicators:** 9 indicators spanning 6 domains, including:
   - Uninsured rate (%)
