@@ -102,6 +102,17 @@ Below are the interactive spatial visualizations for heath indicators across 6 d
 
 ---
 
+## 🧭 Spatial Modeling and Analysis
+
+We developed **piecewise spatial linear models** to quantify how the prevalence of **coronary heart disease (CHD)** and **depression** varies with key social and environmental determinants, while adjusting for demographic factors.  
+Detailed models, figures, and analyses are available as follows:  
+- [Coronary Heart Disease Model](https://github.com/YanlinTong/MI-HealthyCity/tree/main/coronary_heart_disease)  
+- [Depression Model](https://github.com/YanlinTong/MI-HealthyCity/tree/main/depression)
+
+
+
+---
+
 For more details about the MI-HealthyCity project, visit  
 🔗 [https://sph.umich.edu/ideas/mi-healthycity-tool.html](https://sph.umich.edu/ideas/mi-healthycity-tool.html)
 
