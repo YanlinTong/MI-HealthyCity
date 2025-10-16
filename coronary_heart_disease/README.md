@@ -1,4 +1,4 @@
-# Coronary Heart Disease (CHD) Prevalence Analysis and Modeling
+# Coronary Heart Disease (CHD) Prevalence Analyses and Modeling
 
 This folder documents our analysis of **coronary heart disease (CHD) prevalence** across Michigan cities using indicators from the MI-HealthyCity project. We here summarize the indicators, demographic measures, visualization, and the **piecewise spatial linear model** that quantifies associations between CHD prevalence and social/environmental determinants while adjusting for demographics.
 
