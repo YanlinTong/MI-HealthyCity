@@ -2,7 +2,7 @@
 
 This folder documents our analysis of **coronary heart disease (CHD) prevalence** across Michigan cities using indicators from the MI-HealthyCity project. We here summarize the indicators, demographic measures, visualization, and the **piecewise spatial linear model** that quantifies associations between CHD prevalence and social/environmental determinants while adjusting for demographics.
 
-> MI-HealthyCity overview: https://sph.umich.edu/ideas/mi-healthycity-tool.html
+> MI-HealthyCity overview: https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md , https://sph.umich.edu/ideas/mi-healthycity-tool.html
 
 ---
 
@@ -61,12 +61,10 @@ Each box shows the **IQR** for city-specific CHD prevalence across tracts; the *
   - **\< 8% uninsured:** +1% uninsured → **+0.031%** CHD prevalence (insignificant).
   - **≥ 8% uninsured:** +1% uninsured → **−0.059%** CHD prevalence.
   - **Transportation cost proportion:** +1% → **−0.115%** CHD prevalence.
-  - **Vacant housing rate:** +1% → **+0.013%** CHD.
+  - **Vacant housing rate:** +1% → **+0.013%** CHD prevalence.
   - **Unemployment rate:** +1% → **+0.048%** CHD prevalence.
-  - **High school graduates (%):** +1% → **−0.049%** CHD prevalence.
+  - **High school graduates:** +1% → **−0.049%** CHD prevalence.
   
 ---
 
-## Reproducibility
 
-If you wish to reproduce figures:
