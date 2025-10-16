@@ -2,7 +2,7 @@
 
 This folder documents our analysis of **coronary heart disease (CHD) prevalence** across Michigan cities using indicators from the MI-HealthyCity project. We here summarize the indicators, demographic measures, visualization, and the **piecewise spatial linear model** that quantifies associations between CHD prevalence and social/environmental determinants while adjusting for demographics.
 
-> For an overview of the MI-HealthyCity project, see [here](https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md) and [here](https://sph.umich.edu/ideas/mi-healthycity-tool.html).
+> For an overview of the MI-HealthyCity project, see the [Github](https://github.com/YanlinTong/MI-HealthyCity/blob/main/README.md) and the [UMich SPH webpage](https://sph.umich.edu/ideas/mi-healthycity-tool.html).
 
 ---
 
@@ -48,9 +48,8 @@ This folder documents our analysis of **coronary heart disease (CHD) prevalence*
 Each box shows the **IQR** for city-specific CHD prevalence across tracts; the **horizontal line** denotes the median; **dots** are outliers (>1.5×IQR beyond Q3 or below Q1); **whiskers** extend to the most extreme non-outlier values.
 
 ![Boxplot of CHD prevalence by city](images/boxplot_coronary_heart_disease.png)
-
-  - **Highest median**: **Flint**, followed by Detroit and Dearborn.  
-  - **Lowest median**: **Ann Arbor**, followed by Novi and Canton Charter Township.  
+  - **Highest median**: **Flint**, followed by Detroit and Dearborn, indicating the greatest overall burden of CHD prevalence.  
+  - **Lowest median**: **Ann Arbor**, followed by Novi and Canton Charter Township, indicating the lowest prevalence and generally better CHD conditions.
   - **Largest IQRs:** **Detroit** (≈9.6%), indicating substantial variability within the city.
   - **Smallest IQR:** **Livonia** (≈1.1%), indicating tighter clustering around the median.
 
