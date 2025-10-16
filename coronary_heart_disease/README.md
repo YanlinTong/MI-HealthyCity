@@ -53,7 +53,7 @@ Each box shows the **IQR** for city-specific CHD prevalence across tracts; the *
   - **Largest IQR:** **Detroit** and **Kalamazoo** (≈2.5%), indicating substantial variability within the city.
   - **Smallest IQR:** **Livonia** (≈1.1%), indicating tighter clustering around the median.
 
-### Piecewise Spatial linear model results
+### Piecewise spatial linear model results
 
 ![Spatial piecewise linear regression table](images/model_coronary_heart_disease.png)
 
