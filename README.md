@@ -1,6 +1,6 @@
 # MI Healthy City
 
-The **Michigan Healthy City Tool (MI-HealthyCity)** is a interactive data tool created to consolidate data, determine priorities, and identify strategies surrounding health equity and the social determinants of health (SDOH) in Michigan. 
+The **Michigan Healthy City Tool (MI-HealthyCity)** is a interactive data tool created to consolidate data, determine priorities, and identify strategies surrounding health equity and the social determinants of health in Michigan. 
 
 Adapted from global frameworks such as the World Health Organization’s (WHO) Urban Health Equity Assessment and Response Tool (Urban HEART), which has guided urban health planning in over 100 cities worldwide, the MI-HealthyCity Tool provides a localized, data-driven approach to assessing urban health disparities within Michigan communities.
 
