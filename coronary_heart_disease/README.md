@@ -49,8 +49,8 @@ Each box shows the **IQR** for city-specific CHD prevalence across tracts; the *
 
 ![Boxplot of CHD prevalence by city](images/boxplot_coronary_heart_disease.png)
   - **Highest median**: **Flint**, followed by Detroit and Dearborn, indicating the greatest overall burden of CHD prevalence.  
-  - **Lowest median**: **Ann Arbor**, followed by Novi and Canton Charter Township, indicating the lowest prevalence and generally better CHD conditions.
-  - **Largest IQRs:** **Detroit** (≈9.6%), indicating substantial variability within the city.
+  - **Lowest median**: **Ann Arbor**, followed by Novi and Canton, indicating the lowest prevalence and generally better CHD conditions.
+  - **Largest IQR:** **Detroit** and **Kalamazoo** (≈2.5%), indicating substantial variability within the city.
   - **Smallest IQR:** **Livonia** (≈1.1%), indicating tighter clustering around the median.
 
 ### Piecewise Spatial linear model results
