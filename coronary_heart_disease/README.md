@@ -49,46 +49,24 @@ Each box shows the **IQR** for city-specific CHD prevalence across tracts; the *
 
 ![Boxplot of CHD prevalence by city](images/boxplot_coronary_heart_disease.png)
 
-- **City distributions (Figure 1 & Table 2):**
   - The **highest median** CHD prevalence: **Flint**, followed by **Detroit** and **Dearborn**.  
   - The **lowest median**: **Ann Arbor**, followed by **Novi** and **Canton Charter Township**.  
   - **Largest IQRs:** **Detroit** and **Kalamazoo** (≈2.5%).  
   - **Smallest IQR:** **Livonia** (≈1.1%), indicating tighter clustering around the median.
 
----
-
-## Results (Highlights)
-
-
-- **Piecewise spatial linear regression (Table 3; outcome = CHD %, adjusted for demographics):**
-  - **Health care domain – Uninsured rate**  
-    - **\< 8% uninsured:** +1% uninsured → **+0.031%** CHD (95% CI: −0.009%, 0.071%; *p* = 0.132; not significant).  
-    - **≥ 8% uninsured:** +1% uninsured → **−0.059%** CHD (95% CI: 0.021%, 0.098%; *p* = 0.002; significant decrease).
-  - **Neighborhood & environmental exposures:**  
-    - **Transportation cost (% income):** +1% → **−0.115%** CHD (95% CI: 0.051%, 0.179%; *p* \< 0.001).  
-    - **Vacant housing rate:** +1% → **+0.013%** CHD (95% CI: 0.003%, 0.024%; *p* = 0.013).  
-    - Other indicators in this domain showed no statistically significant associations.
-  - **Income & employment:**  
-    - **Unemployment rate:** +1% → **+0.048%** CHD (95% CI: 0.035%, 0.062%; *p* \< 0.001).
-  - **Human development:**  
-    - **High school graduates (%):** +1% → **−0.049%** CHD (95% CI: 0.037%, 0.062%; *p* \< 0.001).
-
-> **Interpretation note:** Coefficients represent the absolute percentage-point change in **CHD prevalence (%)** per one-unit change in the predictor (in the units defined above), holding other variables constant. PM2.5 effects are relative to the **reference group** (**PM2.5 > 9.66 µg/m³**).
-
----
-
-## Model Results Table
-
-**Table 3. Spatial piecewise linear regression results**  
-*Outcome:* CHD prevalence (%)  
-*Predictors:* All indicators (including PM2.5 quartile groups), with **PM2.5 > 9.66 µg/m³** as the reference group; adjusted for demographics.
+### Piecewise Spatial linear model results
 
 ![Spatial piecewise linear regression table](images/model_coronary_heart_disease.png)
 
-*File:* `images/table_piecewise_spatial_linear_model.png`
-
+  - **\< 8% uninsured:** +1% uninsured → **+0.031%** CHD prevalence (insignificant).
+  - **≥ 8% uninsured:** +1% uninsured → **−0.059%** CHD prevalence.
+  - **Transportation cost proportion:** +1% → **−0.115%** CHD prevalence.
+  - **Vacant housing rate:** +1% → **+0.013%** CHD.
+  - **Unemployment rate:** +1% → **+0.048%** CHD prevalence.
+  - **High school graduates (%):** +1% → **−0.049%** CHD prevalence.
+  
 ---
 
-## Reproducibility (Optional)
+## Reproducibility
 
 If you wish to reproduce figures:
